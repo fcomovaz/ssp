@@ -132,4 +132,4 @@ plot(S6t);
 title('Sixth Switch');
 
 % save as image
-saveas(figure(1), 'pwm_original.png');
+saveas(figure(1), '../pwm_original.png');
