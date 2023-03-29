@@ -4,7 +4,7 @@ clear, close, clc;
 % parameters
 w = (2 * pi) / 100;
 V_in = 170;
-samples = 2000;
+samples = 1000;
 time = 1:samples;
 
 % % clarke transform (thesis)
@@ -32,7 +32,7 @@ V_ab2 = 3/2 * V_in * exp(complex(0, w * time));
 V_A_Max = max(V_A);
 
 % % phase angle (ideal)
-% thetaP = real(asin(w*time));
+% thetaP = w*time;
 % phase angle (real)
 thetaP = asin(real(V_A) / real(V_A_Max));
 
@@ -116,4 +116,4 @@ title('Sixth Switch');
 % pause(30);
 
 % save as image
-saveas(figure(1), 'pwm_rewritten.png');
+saveas(figure(1), '../pwm_rewritten.png');
