@@ -1,0 +1,5 @@
+6
+~E 1 "../src/mask.vhd" 8 mask
+~A 1 "../src/mask.vhd" 17 assign_sextant
+~E 1 "../src/mask_tb.vhd" 8 mask_tb
+~A 1 "../src/mask_tb.vhd" 11 assign_sextant

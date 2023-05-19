@@ -1,0 +1,34 @@
+Active-HDL 13.0.376.8320 2023-05-19 07:55:39
+
+Elaboration top modules:
+Architecture                  testbench(maskAssign_tb)
+
+
+---------------------------------------------------------------------------------------------------
+Entity        | Architecture | Library    | Info | Compiler Version          | Compilation Options
+---------------------------------------------------------------------------------------------------
+maskAssign_tb | testbench    | maskAssign |      | 13.0.376.8320 (Windows64) | -O3
+maskAssign    | conditions   | maskAssign |      | 13.0.376.8320 (Windows64) | -O3
+---------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+VHDL Package                 | Library    | Info | Compiler Version          | Compilation Options
+---------------------------------------------------------------------------------------------------
+standard                     | std        |      |                           | <unavailable>
+TEXTIO                       | std        |      | 13.0.376.8320 (Windows64) |  -2019
+std_logic_1164               | ieee       |      | 13.0.376.8320 (Windows64) |  -2008
+---------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+Library                      | Comment
+---------------------------------------------------------------------------------------------------
+ieee                         | Standard IEEE packages library
+maskAssign                   | None
+std                          | Standard VHDL library
+---------------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -O5 +access +r +m+maskAssign_tb maskAssign_tb testbench
+
+
+The performance of simulation is reduced. Version Student Edition

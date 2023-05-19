@@ -1,0 +1,25 @@
+[CACHESIMPLE|Aldec.SymbolsCommands.7]
+Built-in symbols=0
+mask=0
+[COMPILESTATUS|.\src\mask_tb.vhd]
+FileTimeLow=1355423371
+FileTimeHigh=31033967
+Status=Modified
+[COMPILESTATUS|.\src\mask.vhd]
+FileTimeLow=3205107137
+FileTimeHigh=31033964
+Status=Compiled
+[General]
+CurrentVersion=103
+[CACHEDOC|Aldec.Project.Generic.7|.\mask\mask.adf|]
+Path=/mask_tb
+[Gui config]
+RunFor=100 ns
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\mask\src/mask_tb.vhd|]
+CurrentLine=39
+CurrentColumn=66
+Bookmarks=-1
+BookmarksLength=3
+ZoomFactor=0
+Frame=0
+WindowWorkspaceInfo="LAAAAAAAAAABAAAA/////////////////////80AAACZAAAA/wUAAIoCAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIAAAAyAAAAAAAAAAAAAAAyAAAAMgAAAAAAAAAAAAAAAAAAAAAAAAACQAAAAEAAAAAAAAAAQAAAA=="

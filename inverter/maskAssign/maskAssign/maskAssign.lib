@@ -1,0 +1,36 @@
+timestamp=1684504535589
+
+[~A]
+ModifyID=3
+Version=74
+
+[~MFT]
+0=10|0maskAssign.mgf|5147|1824
+1=4|1maskAssign.mgf|5771|4770
+3=4|3maskAssign.mgf|2414|1936
+
+[maskassign]
+A/conditions=21|../src/maskassign.vhd|14|1*4770
+BinW64/conditions=3*1936
+I=0*568
+I/conditions=0*4932
+M=11|2|vef|1684504359320|../src/maskassign.vhd|0*220*0x62d997ce76d579d0cee0df8916b090f24b0cd0eb|0*483*0x23b75c12e3e89f2ef000564498faa8c2
+M/conditions=21|2|vef|1684504535522|../src/maskassign.vhd|0*4014*0x717fe958656ba7ad351a8f26afe74f57b0c72d88|0*4833*0x20116f55b147878295aeff36dce7fc50
+R=../src/maskassign.vhd|6
+Version=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|cdda4bcb597c19fd92037e4bf7432b69872b120e2d1311b7678f8e1823c19b1ed87ac4266ee1f6d7d62a3df3d981c141
+Version/conditions=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|619bc24e1c1fc3d5a01da1089f7fe717cddd807210628af9dbaee4f48f01be55aeb9106c121f36148920f3a36fe25409
+
+[maskassign_tb]
+A/testbench=21|../src/maskassign_tb.vhd|9|1*5771
+BinW64/testbench=3*2414
+I=0*2269
+I/testbench=0*5147
+M=11|2|vef|1684504359346|../src/maskassign_tb.vhd|0*2007*0x48821b069ae163c5851cb5f92618efd76ba6a6b1|0*2178*0x23b75c12e3e89f2ef000564498faa8c2
+M/testbench=21|2|vef|1684504535548|../src/maskassign_tb.vhd|0*2476*0x7703fb517daf7811be65c5878322c97460c1bf61|0*3189*0x20116f55b147878295aeff36dce7fc50
+R=../src/maskassign_tb.vhd|6
+Version=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|a01c5ee4460b7a66d5124491e87356104fad7acd6c17ae52f7629f65e7926edd3e87ca83195b4092e4ab3d69e804eadc
+Version/testbench=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|9c08cd30fe0f9550ac0d051aa32c9ba5030c5f4de3ffa3c97f58c5528f1d7913d50b64c030a1a0c2ec1a4ba88892f958
+
+[~U]
+maskassign=maskAssign 11|0*0|
+maskassign_tb=maskAssign_tb 11|0*1875|

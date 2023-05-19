@@ -1,0 +1,8 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: c:/My_Designs/sawtooth/sawtooth/src/sawtoothwave.vhd" 
+MESSAGE "Compile Entity "sawToothWave"" 
+MESSAGE "Compile Architecture "generation" of Entity "sawToothWave"" 
+MESSAGE "File: c:/My_Designs/sawtooth/sawtooth/src/sawtoothwave_tb.vhd" 
+MESSAGE "Compile Entity "sawToothWave_tb"" 
+MESSAGE "Compile Architecture "generation" of Entity "sawToothWave_tb"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]" 

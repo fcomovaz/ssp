@@ -1,0 +1,1 @@
+-w -erf c:/My_Designs/maskAssign/compile/maskAssign.erf -d c:/My_Designs/maskAssign/compile -s c:/My_Designs/maskAssign/library.cfg -j c:/My_Designs/maskAssign/projlib.cfg -work maskAssign -reorder -O3 -e 100 -work maskAssign -2002 c:/My_Designs/maskAssign/src/maskassign.vhd c:/My_Designs/maskAssign/src/maskassign_tb.vhd 

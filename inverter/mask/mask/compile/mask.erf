@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: c:/My_Designs/mask/mask/src/mask_tb.vhd" 
+MESSAGE "Compile Entity "mask_tb"" 
+MESSAGE "Compile Architecture "assign_sextant" of Entity "mask_tb"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  32.0 [ms]" 

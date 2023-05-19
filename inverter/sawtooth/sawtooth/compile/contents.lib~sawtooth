@@ -1,0 +1,5 @@
+2
+~E 1 "../src/sawtoothwave.vhd" 6 sawToothWave
+~A 1 "../src/sawtoothwave.vhd" 13 generation
+~E 1 "../src/sawtoothwave_tb.vhd" 6 sawToothWave_tb
+~A 1 "../src/sawtoothwave_tb.vhd" 9 generation

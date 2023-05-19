@@ -1,0 +1,1 @@
+-w -erf c:/My_Designs/mask/mask/compile/mask.erf -d c:/My_Designs/mask/mask/compile -s c:/My_Designs/mask/library.cfg -j c:/My_Designs/mask/mask/projlib.cfg -work mask -O3 -e 100 -work mask -2002 c:/My_Designs/mask/mask/src/mask_tb.vhd 

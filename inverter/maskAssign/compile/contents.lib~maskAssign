@@ -1,0 +1,5 @@
+3
+~E 1 "../src/maskassign.vhd" 6 maskAssign
+~A 1 "../src/maskassign.vhd" 14 conditions
+~E 1 "../src/maskassign_tb.vhd" 6 maskAssign_tb
+~A 1 "../src/maskassign_tb.vhd" 9 testbench
